@@ -1,0 +1,12 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+a {
+    font-size: 23px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: rgb(24, 120, 255);
+    color: black;
+}
